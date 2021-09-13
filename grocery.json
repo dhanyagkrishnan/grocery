@@ -1,0 +1,87 @@
+{
+    "grocery":[
+        {
+            "slno":"1",
+            "item":"Rice",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"Rice",
+            "notes":"Matta Rice"
+        },
+        {
+            "slno":"2",
+            "item":"Banana",
+            "quantity":"1",
+            "unit":"kg",
+            "department":"Fruits",
+            "notes":"Fresh"
+
+        },
+        {
+            "slno":"3",
+            "item":"Urudu dal",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"cereals",
+            "notes":"White"
+        },
+        {
+            "slno":"4",
+            "item":"Onion",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"Vegetables",
+            "notes":"Small"
+        },
+        {
+            "slno":"5",
+            "item":"SunflowerOil",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"Oil",
+            "notes":"Cooking"
+        },
+        {
+            "slno":"6",
+            "item":"Cauliflower",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"Vegetables",
+            "notes":"Fresh"
+        },
+        {
+            "slno":"7",
+            "item":"Carrot",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"Vegetables",
+            "notes":"Fresh"
+        },
+        {
+            "slno":"8",
+            "item":"Hamam",
+            "quantity":"2",
+            "unit":"Numbers",
+            "department":"Soap",
+            "notes":"Bathing"
+        },
+        {
+            "slno":"9",
+            "item":"Green Dal",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"Cereals",
+            "notes":"Fresh"
+        },
+        {
+            "slno":"10",
+            "item":"Mango",
+            "quantity":"2",
+            "unit":"kg",
+            "department":"Fruits",
+            "notes":"Fresh"
+        }
+
+        
+    ]
+}
